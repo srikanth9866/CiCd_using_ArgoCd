@@ -1,1 +1,1 @@
-# mindcircuit13 - SAMPLE APP
+# CiCd_using_ArgoCD
