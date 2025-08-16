@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: 707479681391.dkr.ecr.us-east-1.amazonaws.com/argocd1/cicd-app-repo:22
+        image: 707479681391.dkr.ecr.us-east-1.amazonaws.com/argocd1/cicd-app-repo:23
         ports:
         - containerPort: 8080
 
